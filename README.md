@@ -4,7 +4,7 @@ Hamming weight and Hamming distance are widely used in Side-Channel Attacks. We 
 - https://www.geeksforgeeks.org/hamming-distance-between-two-integers/
 - https://www.tutorialspoint.com/hamming-distance-in-python
 
-I just wonder if I can improve their implementation to make the computation faster, simpler???
+I just wonder if I can improve their implementation to make the computation faster, simpler and working for different types???
 
 This demonstrates a simple way to compute the hamming distance of two integer numbers.
 
